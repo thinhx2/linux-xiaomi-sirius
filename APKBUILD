@@ -17,7 +17,7 @@ makedepends="bash bc bison devicepkg-dev flex openssl-dev perl"
 
 # Source
 _repository="msm-4.99"
-_commit="cddc756a0a27137870c8b625c39b1565ceb95537"
+_commit="d8f9be79f78b6f463374dccaa853bf9d78aab3b0"
 _config="config-$_flavor.$arch"
 source="
 	$pkgname-$_commit.tar.gz::https://github.com/thinhx2/$_repository/archive/$_commit.tar.gz
